@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "142011249770",
+    "firebase_url": "https://dietplanner-ca8a7-default-rtdb.firebaseio.com",
+    "project_id": "dietplanner-ca8a7",
+    "storage_bucket": "dietplanner-ca8a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142011249770:android:45250478ecdc22443c8613",
+        "android_client_info": {
+          "package_name": "com.example.firstApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142011249770-u93mteu0divn0k9dcvkeuk86scgv52er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzK20K-st4B-EEgkYSSaAW9bzo_XfJxME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142011249770-u93mteu0divn0k9dcvkeuk86scgv52er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
